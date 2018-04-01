@@ -1,7 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.0.4" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColor" value="cba300" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="1" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="80cbc4" />
+    <option name="tabsHeight" value="28" />
+    <option name="customSidebarHeight" value="24" />
   </component>
 </application>
