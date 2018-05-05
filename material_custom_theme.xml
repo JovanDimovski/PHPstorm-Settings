@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="treeSelectionColor" value="546e7a" />
-    <option name="highlightColor" value="425b67" />
-    <option name="secondBorderColor" value="2a373e" />
+    <option name="treeSelectionColor" value="192831" />
+    <option name="buttonHighlightColor" value="000000" />
+    <option name="highlightColor" value="000000" />
+    <option name="secondBorderColor" value="000000" />
     <option name="contrastColor" value="1e272c" />
     <option name="secondaryBackgroundColor" value="32424a" />
     <option name="caretColor" value="ffcc00" />
@@ -11,6 +12,6 @@
     <option name="selectionBackgroundColor" value="546e7a" />
     <option name="textColor" value="607d8b" />
     <option name="foregroundColor" value="b0bec5" />
-    <option name="backgroundColor" value="272e30" />
+    <option name="backgroundColor" value="0b0b0d" />
   </component>
 </application>
