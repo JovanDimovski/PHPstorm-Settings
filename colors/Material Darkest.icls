@@ -4,7 +4,7 @@
     <property name="created">2018-05-05T16:33:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-05-05T16:40:39</property>
+    <property name="modified">2018-05-05T17:04:19</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3286,7 +3286,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="323232" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="8aff" />
       </value>
     </option>
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
