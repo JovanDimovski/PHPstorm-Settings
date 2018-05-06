@@ -4,7 +4,7 @@
     <property name="created">2018-05-05T16:33:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-05-05T23:24:59</property>
+    <property name="modified">2018-05-06T15:30:13</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3283,6 +3283,9 @@
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
+    </option>
+    <option name="SCOPE_KEY_Controllers">
+      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
