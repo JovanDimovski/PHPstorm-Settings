@@ -15,5 +15,6 @@
     <option name="textColor" value="607d8b" />
     <option name="foregroundColor" value="b0bec5" />
     <option name="backgroundColor" value="0b0b0d" />
+    <option name="doNotAskAgain" value="true" />
   </component>
 </application>
