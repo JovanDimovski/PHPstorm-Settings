@@ -2,4 +2,8 @@
   <component name="DependencyUISettings">
     <option name="UI_SHOW_FILES" value="false" />
   </component>
+  <component name="UISettings">
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+  </component>
 </application>
