@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash-es" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash.clonedeep" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
