@@ -4,6 +4,7 @@
       <mapping pattern="GenerateTranslations" type="PHP" />
       <mapping pattern="CacheControl" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="aaaaa" type="PLAIN_TEXT" />
       <mapping pattern="vue-modal-dialogs" type="TypeScript" />
     </extensionMap>
   </component>
